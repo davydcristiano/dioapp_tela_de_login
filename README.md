@@ -10,11 +10,7 @@ Essa atividade foi realizada durante a aula de criação da tela de login da Dio
 - Full-prevideo:
 <br>
 <br>
-<br>
-<br>
-<video width="420" height="340" controls>
-  <source src="assets/movie/VídeoApp.mp4" type="video/mp4">
-</video>
+- <img src="https://github.com/davydcristiano/dioapp_tela_de_login/assets/53920878/ebd5c4f3-e630-4002-8ed1-a3157ec3fe7c" width="30%">
 
 ## Linguagens
 <br>
