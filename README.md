@@ -12,7 +12,7 @@ Essa atividade foi realizada durante a aula de criação da tela de login da Dio
 <br>
 <br>
 <br>
-- <video width="420" height="340" controls>
+<video width="420" height="340" controls>
   <source src="assets/movie/VídeoApp.mp4" type="video/mp4">
 </video>
 
